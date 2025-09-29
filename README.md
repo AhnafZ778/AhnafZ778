@@ -22,11 +22,10 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 
 ## 🛠️ Featured Projects
 
-- **[AhnafZ778.github.io](https://github.com/AhnafZ778/AhnafZ778.github.io):** Personal website and portfolio (HTML/CSS/JS)
-- **[Coding-Journey](https://github.com/AhnafZ778/Coding-Journey):** My learning log, with scripts, refactors, and honest notes along the way
-- **[Task-Tracker](https://github.com/AhnafZ778/Task-Tracker):** A simple productivity tool (Python/JavaScript)
-- **[Java_test](https://github.com/AhnafZ778/Java_test):** Java experiments and data structure practice
-- **[First_Flast_Project](https://github.com/AhnafZ778/First_Flast_Project):** My initial foray into web development with Flask
+- **[Pokemon Roguelike](https://github.com/AhnafZ778/Pokemon-Roguelike):** A unique take on the classic roguelike genre with a Pokémon twist (Python).
+- **[Google Drive Automation](https://github.com/AhnafZ778/Google-Drive-Automation):** Scripts and tooling for seamless file management and automation with Google Drive (Python).
+- **[Leetcode](https://github.com/AhnafZ778/Leetcode):** My journey through data structures and algorithms, with solutions, insights, and progress tracking (Python/Java).
+- **[Portfolio Website](https://github.com/AhnafZ778/AhnafZ778.github.io):** Personal site coded from scratch (HTML/CSS/JS), also live at [ahnafz778.github.io](https://ahnafz778.github.io/).
 
 ---
 
