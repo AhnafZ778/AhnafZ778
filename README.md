@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 - **[Pokemon Roguelike](https://github.com/AhnafZ778/Pokemon-Roguelike):** A unique take on the classic roguelike genre with a Pokémon twist (Python).
 - **[Google Drive Automation](https://github.com/AhnafZ778/Google-Drive-Automation):** Scripts and tooling for seamless file management and automation with Google Drive (Python).
 - **[Leetcode](https://github.com/AhnafZ778/Leetcode):** My journey through data structures and algorithms, with solutions, insights, and progress tracking (Python/Java).
-- **[Portfolio Website](https://github.com/AhnafZ778/AhnafZ778.github.io):** Personal site coded from scratch (HTML/CSS/JS)
+- **[Portfolio Website]((https://ahnafzakariaportofolio.vercel.app/)):** Personal site coded from scratch (HTML/CSS/JS)
 
 ---
 
@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 
 ## 🤝 Let’s Connect!
 
-- Check out my [portfolio site](https://ahnafz778.github.io/) for more projects and contact info.
+- Check out my [portfolio site](https://ahnafzakariaportofolio.vercel.app/). for more projects and contact info.
 - Feel free to star, fork, or open issues on my repos—feedback and collaboration are always welcome!
 
 ---
