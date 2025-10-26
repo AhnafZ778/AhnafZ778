@@ -36,6 +36,8 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 
 ---
 
+[![Ahnaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnafZ778)](https://github.com/AhnafZ778/github-readme-stats)
+
 ## 🤝 Let’s Connect!
 
 - Check out my [portfolio site](https://ahnafzakariaportofolio.vercel.app/). for more projects and contact info.
