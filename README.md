@@ -28,10 +28,10 @@ location: Dhaka, Bangladesh
 philosophy: "Build small. Build useful. Learn intentionally."
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/> **Clarity over flash** — Readable, maintainable code always wins  
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/> **Practical solutions** — Real problems deserve real tools  
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/> **Learning out loud** — Documenting mistakes and growth  
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/> **Consistent shipping** — Small, useful things every day
+**☯︎ Clarity over flash** — Readable, maintainable code always wins  
+**☯︎ Practical solutions** — Real problems deserve real tools  
+**☯︎ Learning out loud** — Documenting mistakes and growth  
+**☯︎ Consistent shipping** — Small, useful things every day
 
 
 
