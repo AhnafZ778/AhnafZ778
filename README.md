@@ -50,6 +50,8 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 - 📋 **Total Issues:** 0
 - 🤝 **Contributed to (last year):** 2
 
+    </td>
+    <td width="50%">
 
 ### Most Used Languages
 
@@ -60,6 +62,7 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 - 🌐 **HTML** 5.03%
 - 📜 **JavaScript** 3.52%
 
+    </td>
   </tr>
 </table>
 
@@ -72,14 +75,11 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 <table>
   <tr>
     <td width="50%">
-
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=tokyonight)
-
-   
-
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=tokyonight)
-
-    
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=tokyonight" alt="Top Languages by Repo" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=tokyonight" alt="Top Languages by Commit" />
+    </td>
   </tr>
 </table>
 
@@ -88,14 +88,11 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 <table>
   <tr>
     <td width="50%">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=tokyonight)
-
-   
-
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=tokyonight&utcOffset=6)
-
-  
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=tokyonight" alt="Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=tokyonight&utcOffset=6" alt="Commits" />
+    </td>
   </tr>
 </table>
 
@@ -122,7 +119,6 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
     </tr>
   </table>
 </div>
-
 
 ## 🤝 Let’s Connect!
 
