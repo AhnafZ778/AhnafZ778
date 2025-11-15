@@ -188,7 +188,9 @@ Personal portfolio site coded from scratch. Clean design, responsive layout, and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&rank_icon=github" height="170" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=github_dark" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/grade?username=AhnafZ778&theme=github_dark" alt="GitHub Grade" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=6" height="170" alt="Top Languages" />
 
 <br/><br/>
