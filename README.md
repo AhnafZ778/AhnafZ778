@@ -189,7 +189,7 @@ Personal portfolio site coded from scratch. Clean design, responsive layout, and
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<img src="https://img.shields.io/badge/Rating-B-268bd2?style=for-the-badge&labelColor=fdf6e3&color=268bd2" alt="Custom Rating" />
 <img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=solarized-light&border_color=268bd2&title_color=268bd2&icon_color=cb4b16&text_color=586e75&bg_color=fdf6e3&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=solarized-light&border_color=268bd2&title_color=268bd2&text_color=586e75&bg_color=fdf6e3&hide_border=false&langs_count=6" height="170" alt="Top Languages" />
 
