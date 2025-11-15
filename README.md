@@ -38,29 +38,95 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=tokyonight&count_private=true&bg_color=0a0e27&title_color=00d4ff&text_color=8be9fd&icon_color=00d4ff" alt="Ahnaf's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=tokyonight&bg_color=0a0e27&title_color=00d4ff&text_color=8be9fd" alt="Top Languages" height="165" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=cyan_dark" alt="Profile Details" />
-</p>
+### Ahnaf Bin Zakaria's GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=cyan_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=cyan_dark" />
-</p>
+- ⭐ **Total Stars Earned:** 38
+- 💬 **Total Commits (last year):** 298
+- 📤 **Total PRs:** 0
+- 📋 **Total Issues:** 0
+- 🤝 **Contributed to (last year):** 2
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=cyan_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=cyan_dark&utcOffset=6" />
-</p>
+    </td>
+    <td width="50%">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhnafZ778&theme=tokyonight&background=0a0e27&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=8be9fd&sideNums=8be9fd&sideLabels=00d4ff" alt="GitHub Streak" />
-</p>
+### Most Used Languages
 
+- 🐍 **Python** 58.01%
+- ☕ **Java** 18.98%
+- 🎨 **SCSS** 8.54%
+- 🎯 **CSS** 5.97%
+- 🌐 **HTML** 5.03%
+- 📜 **JavaScript** 3.52%
+
+    </td>
+  </tr>
+</table>
+
+---
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=tokyonight)
+
+---
+
+<table>
+  <tr>
+    <td width="50%">
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=tokyonight)
+
+    </td>
+    <td width="50%">
+
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=tokyonight)
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="50%">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=tokyonight)
+
+    </td>
+    <td width="50%">
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=tokyonight&utcOffset=6)
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>505</strong><br/>
+        Total Contributions<br/>
+        <em>Aug 9, 2023 - Present</em>
+      </td>
+      <td align="center" width="33%">
+        <strong style="color: #00d4ff; font-size: 24px;">13</strong><br/>
+        Current Streak<br/>
+        <em>Nov 3 - Nov 15</em>
+      </td>
+      <td align="center" width="33%">
+        <strong>30</strong><br/>
+        Longest Streak<br/>
+        <em>May 30 - Jun 28</em>
+      </td>
+    </tr>
+  </table>
+</div>
 ## 🤝 Let’s Connect!
 
 - Check out my [portfolio site](https://ahnafzakariaportofolio.vercel.app/). for more projects and contact info.
