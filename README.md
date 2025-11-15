@@ -28,10 +28,10 @@ location: Dhaka, Bangladesh
 philosophy: "Build small. Build useful. Learn intentionally."
 ```
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Yin_yang.svg" width="25" alt="yin-yang"> **Clarity over flash** — Readable, maintainable code always wins  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Yin_yang.svg" width="25" alt="yin-yang"> **Practical solutions** — Real problems deserve real tools  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Yin_yang.svg" width="25" alt="yin-yang"> **Learning out loud** — Documenting mistakes and growth  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Yin_yang.svg" width="25" alt="yin-yang"> **Consistent shipping** — Small, useful things every day
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yin_yang_symbol.svg/512px-Yin_yang_symbol.svg.png" width="25" alt="yin-yang" style="vertical-align:middle"> **Clarity over flash** — Readable, maintainable code always wins  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yin_yang_symbol.svg/512px-Yin_yang_symbol.svg.png" width="25" alt="yin-yang" style="vertical-align:middle"> **Practical solutions** — Real problems deserve real tools  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yin_yang_symbol.svg/512px-Yin_yang_symbol.svg.png" width="25" alt="yin-yang" style="vertical-align:middle"> **Learning out loud** — Documenting mistakes and growth  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yin_yang_symbol.svg/512px-Yin_yang_symbol.svg.png" width="25" alt="yin-yang" style="vertical-align:middle"> **Consistent shipping** — Small, useful things every day
 
 
 ```python
