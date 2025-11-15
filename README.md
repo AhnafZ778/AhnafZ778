@@ -250,7 +250,7 @@ Personal portfolio site coded from scratch. Clean design, responsive layout, and
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" alt="Python"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/>
 <br/><strong>Python Projects</strong>
 </td>
 <td align="center" width="25%">
@@ -260,11 +260,6 @@ Personal portfolio site coded from scratch. Clean design, responsive layout, and
 <td align="center" width="25%">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="Automation"/>
 <br/><strong>Automation Scripts</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/>
-<br/><strong>Open Source</strong>
-</td>
 </tr>
 </table>
 
