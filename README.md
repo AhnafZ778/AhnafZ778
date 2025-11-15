@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=268bd2&height=200&section=header&text=Ahnaf%20Bin%20Zakaria&fontSize=60&fontColor=fdf6e3&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Problem%20Solver%20|%20Continuous%20Learner&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=200&section=header&text=Ahnaf%20Bin%20Zakaria&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Problem%20Solver%20|%20Continuous%20Learner&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=268BD2&background=FDF6E300&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+elegant+solutions+in+Python;Learning+through+intentional+practice;Making+code+readable+and+maintainable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+elegant+solutions+in+Python;Learning+through+intentional+practice;Making+code+readable+and+maintainable" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,12 +28,10 @@ location: Dhaka, Bangladesh
 philosophy: "Build small. Build useful. Learn intentionally."
 ```
 
-**☯︎ Clarity over flash** — Readable, maintainable code always wins  
-**☯︎ Practical solutions** — Real problems deserve real tools  
-**☯︎ Learning out loud** — Documenting mistakes and growth  
-**☯︎ Consistent shipping** — Small, useful things every day
-
-
+**✨ Clarity over flash** — Readable, maintainable code always wins  
+**✨ Practical solutions** — Real problems deserve real tools  
+**✨ Learning out loud** — Documenting mistakes and growth  
+**✨ Consistent shipping** — Small, useful things every day
 
 ```python
 class Developer:
@@ -66,7 +64,7 @@ print(me.say_hi())
 
 ### Languages & Technologies
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,sass&theme=light" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,sass&theme=dark" alt="Skills"/>
 
 <br/><br/>
 
@@ -107,14 +105,14 @@ print(me.say_hi())
 
 ### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma&theme=light" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma&theme=dark" alt="Tools"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafZ778&bg_color=fdf6e3&color=657b83&line=268bd2&point=cb4b16&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafZ778&bg_color=0d1117&color=58a6ff&line=00d4ff&point=00d4ff&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
 ---
@@ -130,7 +128,7 @@ print(me.say_hi())
 ### 🎲 Pokemon Roguelike
 
 <a href="https://github.com/AhnafZ778/Pokemon_Rogue_like">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Pokemon-Roguelike&theme=solarized-light&border_color=268bd2&title_color=268bd2&icon_color=cb4b16" alt="Pokemon Roguelike" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Pokemon_Rogue_like&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Pokemon Roguelike" />
 </a>
 
 A unique take on the classic roguelike genre with a Pokémon twist. Features procedural generation, turn-based combat, and strategic gameplay.
@@ -143,7 +141,7 @@ A unique take on the classic roguelike genre with a Pokémon twist. Features pro
 ### ☁️ Google Drive Automation
 
 <a href="https://github.com/AhnafZ778/Google-Drive-Automation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Google-Drive-Automation&theme=solarized-light&border_color=268bd2&title_color=268bd2&icon_color=cb4b16" alt="Google Drive Automation" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Google-Drive-Automation&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Google Drive Automation" />
 </a>
 
 Scripts and tooling for seamless file management and automation with Google Drive. Simplifies batch operations and workflow automation.
@@ -158,7 +156,7 @@ Scripts and tooling for seamless file management and automation with Google Driv
 ### 💻 Leetcode Solutions
 
 <a href="https://github.com/AhnafZ778/Leetcode">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Leetcode&theme=solarized-light&border_color=268bd2&title_color=268bd2&icon_color=cb4b16" alt="Leetcode" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Leetcode&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Leetcode" />
 </a>
 
 My journey through data structures and algorithms. Solutions, insights, and progress tracking with detailed explanations.
@@ -171,7 +169,7 @@ My journey through data structures and algorithms. Solutions, insights, and prog
 ### 🌐 Portfolio Website
 
 <a href="https://github.com/AhnafZ778/AhnafZ778.github.io">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=AhnafZ778.github.io&theme=solarized-light&border_color=268bd2&title_color=268bd2&icon_color=cb4b16" alt="Portfolio" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=AhnafZ778.github.io&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Portfolio" />
 </a>
 
 Personal portfolio site coded from scratch. Clean design, responsive layout, and showcasing my work and journey.
@@ -189,17 +187,17 @@ Personal portfolio site coded from scratch. Clean design, responsive layout, and
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://img.shields.io/badge/Rating-B-268bd2?style=for-the-badge&labelColor=fdf6e3&color=268bd2" alt="Custom Rating" />
-<img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=solarized-light&border_color=268bd2&title_color=268bd2&icon_color=cb4b16&text_color=586e75&bg_color=fdf6e3&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=solarized-light&border_color=268bd2&title_color=268bd2&text_color=586e75&bg_color=fdf6e3&hide_border=false&langs_count=6" height="170" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=github_dark&border_color=00d4ff&title_color=00d4ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=github_dark&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=6" height="170" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AhnafZ778&theme=solarized-light&border=268bd2&stroke=268bd2&ring=cb4b16&fire=cb4b16&currStreakNum=586e75&sideNums=586e75&currStreakLabel=268bd2&sideLabels=268bd2&dates=657b83&background=fdf6e3" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=AhnafZ778&theme=github-dark-blue&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9&border=00d4ff" alt="GitHub Streak Stats" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=solarized" width="90%" alt="Contribution Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=github_dark" width="90%" alt="Contribution Graph" />
 
 </div>
 
@@ -210,22 +208,22 @@ Personal portfolio site coded from scratch. Clean design, responsive layout, and
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Total_Stars-38-268bd2?style=for-the-badge&labelColor=fdf6e3&color=268bd2" alt="Stars"/>
+<img src="https://img.shields.io/badge/Total_Stars-38-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff" alt="Stars"/>
 <br/>
 <sub>⭐ Total Stars Earned</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Commits-505-859900?style=for-the-badge&labelColor=fdf6e3&color=859900" alt="Commits"/>
+<img src="https://img.shields.io/badge/Commits-505-58a6ff?style=for-the-badge&labelColor=0d1117&color=58a6ff" alt="Commits"/>
 <br/>
 <sub>📝 Total Contributions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Current_Streak-13_days-cb4b16?style=for-the-badge&labelColor=fdf6e3&color=cb4b16" alt="Current Streak"/>
+<img src="https://img.shields.io/badge/Current_Streak-13_days-00d4ff?style=for-the-badge&labelColor=0d1117&color=00d4ff" alt="Current Streak"/>
 <br/>
 <sub>🔥 Current Streak</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Longest_Streak-30_days-d33682?style=for-the-badge&labelColor=fdf6e3&color=d33682" alt="Longest Streak"/>
+<img src="https://img.shields.io/badge/Longest_Streak-30_days-58a6ff?style=for-the-badge&labelColor=0d1117&color=58a6ff" alt="Longest Streak"/>
 <br/>
 <sub>🏆 Longest Streak</sub>
 </td>
@@ -240,10 +238,10 @@ Personal portfolio site coded from scratch. Clean design, responsive layout, and
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-268bd2?style=for-the-badge&logo=google-chrome&logoColor=fdf6e3&labelColor=586e75)](https://ahnafzakariaportofolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-cb4b16?style=for-the-badge&logo=github&logoColor=fdf6e3&labelColor=586e75)](https://github.com/AhnafZ778)
-[![Email](https://img.shields.io/badge/Email-859900?style=for-the-badge&logo=gmail&logoColor=fdf6e3&labelColor=586e75)](mailto:contact@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2aa198?style=for-the-badge&logo=linkedin&logoColor=fdf6e3&labelColor=586e75)](https://linkedin.com/in/ahnafzakaria)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=ffffff&labelColor=0d1117)](https://ahnafzakariaportofolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117)](https://github.com/AhnafZ778)
+[![Email](https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=0d1117)](mailto:contact@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-58a6ff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117)](https://linkedin.com/in/ahnafzakaria)
 
 <br/>
 
@@ -280,14 +278,14 @@ Personal portfolio site coded from scratch. Clean design, responsive layout, and
 
 ### 🎯 Quick Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhnafZ778&color=268bd2&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/AhnafZ778?style=flat-square&color=268bd2&labelColor=fdf6e3&label=Followers)
-![Stars](https://img.shields.io/github/stars/AhnafZ778?style=flat-square&color=cb4b16&labelColor=fdf6e3&label=Total+Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=AhnafZ778&color=00d4ff&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/AhnafZ778?style=flat-square&color=00d4ff&labelColor=0d1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/AhnafZ778?style=flat-square&color=58a6ff&labelColor=0d1117&label=Total+Stars)
 
 <br/>
 
 <!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=268bd2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fdf6e3&animation=twinkling&fontAlignY=70" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="Footer"/>
 
 <br/>
 
