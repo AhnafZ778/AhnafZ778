@@ -122,6 +122,8 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
     </tr>
   </table>
 </div>
+
+
 ## 🤝 Let’s Connect!
 
 - Check out my [portfolio site](https://ahnafzakariaportofolio.vercel.app/). for more projects and contact info.
