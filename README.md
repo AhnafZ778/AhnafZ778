@@ -75,12 +75,11 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=tokyonight)
 
-    </td>
-    <td width="50%">
+   
 
 ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=tokyonight)
 
-    </td>
+    
   </tr>
 </table>
 
@@ -92,12 +91,11 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=tokyonight)
 
-    </td>
-    <td width="50%">
+   
 
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=tokyonight&utcOffset=6)
 
-    </td>
+  
   </tr>
 </table>
 
