@@ -68,33 +68,23 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 
 ---
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=tokyonight" alt="Profile Details" />
+</p>
 
 ---
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=tokyonight" alt="Top Languages by Repo" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=tokyonight" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=tokyonight" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=tokyonight" alt="Top Languages by Commit" width="48%" />
+</p>
 
 ---
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=tokyonight" alt="Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=tokyonight&utcOffset=6" alt="Commits" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=tokyonight" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=tokyonight&utcOffset=6" alt="Commits" width="48%" />
+</p>
 
 ---
 
