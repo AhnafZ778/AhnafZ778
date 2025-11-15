@@ -36,7 +36,30 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 
 ---
 
-[![Ahnaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhnafZ778)](https://github.com/AhnafZ778/github-readme-stats)
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=tokyonight&count_private=true&bg_color=0a0e27&title_color=00d4ff&text_color=8be9fd&icon_color=00d4ff" alt="Ahnaf's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=tokyonight&bg_color=0a0e27&title_color=00d4ff&text_color=8be9fd" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=cyan_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=cyan_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=cyan_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=cyan_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=cyan_dark&utcOffset=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AhnafZ778&theme=tokyonight&background=0a0e27&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=8be9fd&sideNums=8be9fd&sideLabels=00d4ff" alt="GitHub Streak" />
+</p>
 
 ## 🤝 Let’s Connect!
 
