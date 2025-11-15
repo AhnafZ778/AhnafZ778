@@ -28,10 +28,10 @@ location: Dhaka, Bangladesh
 philosophy: "Build small. Build useful. Learn intentionally."
 ```
 
-<img src="https://github.com/primer/octicons/blob/main/icons/dot-16.png?raw=true" width="16" alt="dot"> **Clarity over flash** — Readable, maintainable code always wins  
-<img src="https://github.com/primer/octicons/blob/main/icons/dot-16.png?raw=true" width="16" alt="dot"> **Practical solutions** — Real problems deserve real tools  
-<img src="https://github.com/primer/octicons/blob/main/icons/dot-16.png?raw=true" width="16" alt="dot"> **Learning out loud** — Documenting mistakes and growth  
-<img src="https://github.com/primer/octicons/blob/main/icons/dot-16.png?raw=true" width="16" alt="dot"> **Consistent shipping** — Small, useful things every day
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/> **Clarity over flash** — Readable, maintainable code always wins  
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/> **Practical solutions** — Real problems deserve real tools  
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/> **Learning out loud** — Documenting mistakes and growth  
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/> **Consistent shipping** — Small, useful things every day
 
 
 
