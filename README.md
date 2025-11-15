@@ -28,10 +28,11 @@ location: Dhaka, Bangladesh
 philosophy: "Build small. Build useful. Learn intentionally."
 ```
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yin_yang_symbol.svg/512px-Yin_yang_symbol.svg.png" width="25" alt="yin-yang" style="vertical-align:middle"> **Clarity over flash** — Readable, maintainable code always wins  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yin_yang_symbol.svg/512px-Yin_yang_symbol.svg.png" width="25" alt="yin-yang" style="vertical-align:middle"> **Practical solutions** — Real problems deserve real tools  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yin_yang_symbol.svg/512px-Yin_yang_symbol.svg.png" width="25" alt="yin-yang" style="vertical-align:middle"> **Learning out loud** — Documenting mistakes and growth  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Yin_yang_symbol.svg/512px-Yin_yang_symbol.svg.png" width="25" alt="yin-yang" style="vertical-align:middle"> **Consistent shipping** — Small, useful things every day
+<img src="https://github.com/primer/octicons/blob/main/icons/dot-16.png?raw=true" width="16" alt="dot"> **Clarity over flash** — Readable, maintainable code always wins  
+<img src="https://github.com/primer/octicons/blob/main/icons/dot-16.png?raw=true" width="16" alt="dot"> **Practical solutions** — Real problems deserve real tools  
+<img src="https://github.com/primer/octicons/blob/main/icons/dot-16.png?raw=true" width="16" alt="dot"> **Learning out loud** — Documenting mistakes and growth  
+<img src="https://github.com/primer/octicons/blob/main/icons/dot-16.png?raw=true" width="16" alt="dot"> **Consistent shipping** — Small, useful things every day
+
 
 
 ```python
