@@ -127,7 +127,7 @@ print(me.say_hi())
 
 ### 🎲 Pokemon Roguelike
 
-<a href="https://github.com/AhnafZ778/Pokemon-Roguelike">
+<a href="https://github.com/AhnafZ778/Pokemon_Rogue_like">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Pokemon-Roguelike&theme=solarized-light&border_color=268bd2&title_color=268bd2&icon_color=cb4b16" alt="Pokemon Roguelike" />
 </a>
 
