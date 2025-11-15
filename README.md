@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 ### Ahnaf Bin Zakaria's GitHub Stats
 
 - ⭐ **Total Stars Earned:** 38
-- 💬 **Total Commits (last year):** 298
+- 💬 **Total Commits (last year):** 305
 - 📤 **Total PRs:** 0
 - 📋 **Total Issues:** 0
 - 🤝 **Contributed to (last year):** 2
@@ -69,34 +69,34 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=nord&count_private=true&bg_color=0d1117&title_color=00bfff&text_color=58a6ff&icon_color=00bfff" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=nord&bg_color=0d1117&title_color=00bfff&text_color=58a6ff" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=github_dark&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=58a6ff&icon_color=00d4ff&border_color=30363d" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=github_dark&bg_color=0d1117&title_color=00d4ff&text_color=58a6ff&border_color=30363d" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=nord_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=github_dark" alt="Profile Details" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=nord_dark" alt="Top Languages by Repo" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=nord_dark" alt="Top Languages by Commit" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhnafZ778&theme=github_dark" alt="Top Languages by Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhnafZ778&theme=github_dark" alt="Top Languages by Commit" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=nord_dark" alt="Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=nord_dark&utcOffset=6" alt="Commits" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhnafZ778&theme=github_dark" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhnafZ778&theme=github_dark&utcOffset=6" alt="Commits" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhnafZ778&theme=nord&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=58a6ff&sideNums=58a6ff&sideLabels=00bfff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AhnafZ778&theme=github-dark-blue&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=58a6ff&sideNums=58a6ff&sideLabels=00d4ff" alt="GitHub Streak" />
 </p>
 
 ---
@@ -105,19 +105,19 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
   <table>
     <tr>
       <td align="center" width="33%">
-        <strong>505</strong><br/>
-        Total Contributions<br/>
-        <em>Aug 9, 2023 - Present</em>
+        <strong style="color: #58a6ff;">505</strong><br/>
+        <span style="color: #00d4ff;">Total Contributions</span><br/>
+        <em style="color: #8b949e;">Aug 9, 2023 - Present</em>
       </td>
       <td align="center" width="33%">
-        <strong style="color: #00bfff; font-size: 24px;">13</strong><br/>
-        Current Streak<br/>
-        <em>Nov 3 - Nov 15</em>
+        <strong style="color: #58a6ff; font-size: 24px;">13</strong><br/>
+        <span style="color: #00d4ff;">Current Streak</span><br/>
+        <em style="color: #8b949e;">Nov 3 - Nov 15</em>
       </td>
       <td align="center" width="33%">
-        <strong>30</strong><br/>
-        Longest Streak<br/>
-        <em>May 30 - Jun 28</em>
+        <strong style="color: #58a6ff;">30</strong><br/>
+        <span style="color: #00d4ff;">Longest Streak</span><br/>
+        <em style="color: #8b949e;">May 30 - Jun 28</em>
       </td>
     </tr>
   </table>
