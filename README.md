@@ -50,8 +50,6 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 - 📋 **Total Issues:** 0
 - 🤝 **Contributed to (last year):** 2
 
-    </td>
-    <td width="50%">
 
 ### Most Used Languages
 
@@ -62,7 +60,6 @@ Welcome to my GitHub profile! I’m a **Python-focused developer** with a passio
 - 🌐 **HTML** 5.03%
 - 📜 **JavaScript** 3.52%
 
-    </td>
   </tr>
 </table>
 
