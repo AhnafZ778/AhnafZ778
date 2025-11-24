@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Header -->
-<img src="assets/header.png" width="100%" alt="Ahnaf Bin Zakaria - Python Developer" />
-
-<br/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=200&section=header&text=Ahnaf%20Bin%20Zakaria&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Problem%20Solver%20|%20Continuous%20Learner&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+elegant+solutions+in+Python;Crafting+digital+experiences;Automating+the+boring+stuff" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+elegant+solutions+in+Python;Learning+through+intentional+practice;Making+code+readable+and+maintainable" alt="Typing SVG" />
 </a>
 
 <br/>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Divider">
 
 </div>
 
@@ -120,7 +120,25 @@ me = Developer()
 <a href="https://linkedin.com/in/ahnafzakaria">
   <img src="https://img.shields.io/badge/LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=0d1117" alt="LinkedIn" />
 </a>
+<br/>
 
+### 💬 Open for Collaboration
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Open Source"/>
+<br/><strong>Python Projects</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="Algorithms"/>
+<br/><strong>DSA Challenges</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="Automation"/>
+<br/><strong>Automation Scripts</strong>
+</tr>
+</table>
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Footer"/>
