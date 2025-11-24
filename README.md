@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="assets/header.png" width="100%" alt="Ahnaf Bin Zakaria - Python Developer" />
+<img src="assets/header.png" width="50%" alt="Ahnaf Bin Zakaria - Python Developer" />
 
 <br/>
 
