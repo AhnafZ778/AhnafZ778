@@ -92,7 +92,8 @@ me = Developer()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&rank_icon=github" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false" height="170" alt="GitHub Stats" />
+<!-- Failsafe (Icon Version): <img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&rank_icon=github" height="170" alt="GitHub Stats" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=6" height="170" alt="Top Languages" />
 
 <br/><br/>
