@@ -19,7 +19,7 @@
 <!-- Social Badges -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://ahnafzakariaportofolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahnafzakaria)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example. com)
 
 </div>
 
@@ -81,7 +81,7 @@ print(me.current_status())
 
 ### 🚀 Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20? style=for-the-badge&logo=django&logoColor=green)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -89,14 +89,14 @@ print(me.current_status())
 
 ### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B? style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032? style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -116,11 +116,14 @@ print(me.current_status())
 <td width="50%">
 
 ### 🎮 Pokemon Roguelike
-<a href="https://github.com/AhnafZ778/Pokemon_Rogue_like">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Pokemon_Rogue_like&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
-</a>
 
-**A terminal-based roguelike adventure** featuring:
+<div align="center">
+  <a href="https://github.com/AhnafZ778/Pokemon_Rogue_like">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Pokemon_Rogue_like&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
+  </a>
+</div>
+
+**A terminal-based roguelike adventure** featuring: 
 - 🎲 Procedural dungeon generation
 - ⚔️ Turn-based combat system
 - 🐉 Pokemon-inspired mechanics
@@ -134,9 +137,12 @@ print(me.current_status())
 <td width="50%">
 
 ### 🌐 Portfolio Website
-<a href="https://github.com/AhnafZ778/AhnafZ778.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=AhnafZ778.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
-</a>
+
+<div align="center">
+  <a href="https://github.com/AhnafZ778/AhnafZ778.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=AhnafZ778.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E" />
+  </a>
+</div>
 
 **Modern, responsive portfolio** showcasing:
 - 💼 Professional project displays
@@ -146,7 +152,7 @@ print(me.current_status())
 
 **Tech:** `HTML5` `CSS3` `JavaScript` `Responsive`
 
-[![View Live](https://img.shields.io/badge/View_Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahnafzakariaportofolio.vercel.app/)
+[![View Live](https://img.shields.io/badge/View_Live-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahnafzakariaportofolio.vercel. app/)
 [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/AhnafZ778/AhnafZ778.github.io)
 
 </td>
@@ -162,26 +168,42 @@ print(me.current_status())
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api? username=AhnafZ778&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&ring_color=1F6FEB&count_private=true&include_all_commits=true" />
+<!-- GitHub Stats Cards - Using Multiple Sources for Reliability -->
+<a href="https://github.com/AhnafZ778">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=AhnafZ778&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
 
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=AhnafZ778&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
-
-<br/><br/>
-
-<!-- Streak Stats (UPDATED URL) -->
-<img src="https://streak-stats.demolab.com? user=AhnafZ778&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=8B949E" alt="GitHub Streak Stats" />
+<a href="https://github.com/AhnafZ778">
+  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=AhnafZ778&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top Languages" />
+</a>
 
 <br/><br/>
 
-<!-- Activity Graph (UPDATED URL) -->
-<img src="https://github-readme-activity-graph.vercel. app/graph?username=AhnafZ778&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB" alt="Contribution Graph" />
+<!-- Streak Stats - Updated with correct domain -->
+<a href="https://github.com/AhnafZ778">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhnafZ778&theme=tokyonight&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=8B949E" alt="GitHub Streak Stats" />
+</a>
 
-<br/>
+<br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/? username=AhnafZ778&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+<!-- Activity Graph - Alternative reliable source -->
+<a href="https://github.com/AhnafZ778">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhnafZ778&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true" alt="Contribution Graph" />
+</a>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<a href="https://github.com/AhnafZ778">
+  <img src="https://github-profile-trophy.vercel.app/?username=AhnafZ778&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</a>
+
+<br/><br/>
+
+<!-- Contribution Stats using Profile Summary Cards -->
+<a href="https://github.com/AhnafZ778">
+  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=AhnafZ778&theme=tokyonight" alt="Contribution Details" />
+</a>
 
 </div>
 
@@ -235,19 +257,19 @@ print(me.current_status())
 
 ### 💬 Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api? type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-<br/>
+<br/><br/>
 
-### 🐍 Contribution Snake
+### 🐍 Watch My Contribution Graph Get Eaten! 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhnafZ778/AhnafZ778/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhnafZ778/AhnafZ778/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhnafZ778/AhnafZ778/output/github-contribution-grid-snake. svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AhnafZ778/AhnafZ778/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>*(Note: Snake animation requires GitHub Actions setup in your profile repo)*</sub>
+<sub>💡 *To enable the snake animation above, you need to set up a GitHub Action.  [Click here for setup guide](https://github.com/Platane/snk)*</sub>
 
 </div>
 
@@ -258,7 +280,7 @@ print(me.current_status())
 
 ### ⭐ If you like my work, consider dropping a star on my repos! 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you! </b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
 <br/><br/>
 
