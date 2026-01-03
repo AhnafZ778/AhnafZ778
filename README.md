@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=200&section=header&text=Ahnaf%20Bin%20Zakaria&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20|%20Problem%20Solver%20|%20Continuous%20Learner&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=200&section=header&text=Ahnaf%20Bin%20Zakaria&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Python%20[...]">
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Building+elegant+solutions+in+Python;Learning+through+intentional+practice;Making+code+readable+and+maintainable" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&background=0D111700&center=true&vCenter=true&multiline=false&width=600&height=60&lines=[...]">
 </a>
 
 <br/>
@@ -60,7 +60,7 @@ me = Developer()
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,react,nextjs,nodejs,express,flask,django,mysql,postgres,mongodb,firebase,git,github,vscode,docker,linux&theme=dark&perline=11" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,ts,react,nextjs,nodejs,express,flask,django,mysql,postgres,mongodb,firebase,git,github,vscode,docker,linux&theme=dark&perline=11" alt="tech stack">
 
 </div>
 
@@ -71,17 +71,15 @@ me = Developer()
 
 <div align="center">
 
-|                                                                                                                                                **🎮 Pokemon Roguelike**                                                                                                                                                 |                                                                                                                                                     **☁️ Google Drive Automation**                                                                                                                                                      |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/AhnafZ778/Pokemon_Rogue_like"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Pokemon_Rogue_like&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Pokemon Roguelike" /></a> | <a href="https://github.com/AhnafZ778/Google-Drive-Automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Google-Drive-Automation&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Google Drive Automation" /></a> |
-|                                                                                                                    A terminal-based roguelike game with procedural generation and turn-based combat.                                                                                                                    |                                                                                                                               Automation scripts for seamless file management using the Google Drive API.                                                                                                                               |
-|                                                                                                                                            `Python` `Game Dev` `Algorithms`                                                                                                                                             |                                                                                                                                                       `Python` `API` `Automation`                                                                                                                                                       |
+|                                                                                                                                                **🎮 Pokemon Roguelike**                             [...] |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------[...] |
+| <a href="https://github.com/AhnafZ778/Pokemon_Rogue_like"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Pokemon_Rogue_like&theme=tokyonight&border_color=00d4ff&title_color=00d4ff" alt="Pokemon Roguelike"></a> |
+| A terminal-based roguelike game with procedural generation and turn-based combat.  `Python` `Game Dev` `Algorithms` |
 
-|                                                                                                                                             **🌐 Portfolio Website**                                                                                                                                              |                                                                                                                                 **💻 LeetCode Solutions**                                                                                                                                  |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/AhnafZ778/AhnafZ778.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=AhnafZ778.github.io&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="Portfolio" /></a> | <a href="https://github.com/AhnafZ778/Leetcode"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=Leetcode&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" width="100%" alt="LeetCode" /></a> |
-|                                                                                                                    Personal portfolio showcasing projects and skills with a responsive design.                                                                                                                    |                                                                                                      A collection of optimized solutions for Data Structures and Algorithms problems.                                                                                                      |
-|                                                                                                                                          `HTML` `CSS` `JS` `Responsive`                                                                                                                                           |                                                                                                                                   `Python` `Java` `DSA`                                                                                                                                    |
+|                                                                                                                                             **🌐 Portfolio Website**                                [...] |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------[...] |
+| <a href="https://github.com/AhnafZ778/AhnafZ778.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AhnafZ778&repo=AhnafZ778.github.io&theme=tokyonight&border_color=00d4ff&title_color=00d4ff" alt="Portfolio"></a> |
+| Personal portfolio showcasing projects and skills with a responsive design. `HTML` `CSS` `JS` `Responsive` |
 
 </div>
 
@@ -92,13 +90,24 @@ me = Developer()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false" height="170" alt="GitHub Stats" />
-<!-- Failsafe (Icon Version): <img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&rank_icon=github" height="170" alt="GitHub Stats" /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=6" height="170" alt="Top Languages" />
+<!-- Replaced the original (failing) analytics card with two more reliable cards:
+     1) profile-details (gives a summary incl. contributions)
+     2) a simplified github-readme-stats card with fewer params
+-->
+
+<!-- Profile details card (includes contribution summary) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhnafZ778&theme=tokyonight" alt="Profile Details" />
+
+<!-- Simplified stats card (fewer query params to reduce chance of failure) -->
+<img src="https://github-readme-stats.vercel.app/api?username=AhnafZ778&show_icons=true&theme=tokyonight&border_color=00d4ff" alt="GitHub Stats" />
+
+<!-- Top languages (kept from original) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhnafZ778&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages">
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AhnafZ778&theme=tokyonight&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=c9d1d9&border=00d4ff" alt="GitHub Streak Stats" />
+<!-- Streak card (kept from original) -->
+<img src="https://streak-stats.demolab.com?user=AhnafZ778&theme=tokyonight&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=00d4ff" alt="Streak Stats">
 
 </div>
 
@@ -142,6 +151,6 @@ me = Developer()
 </table>
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=50" width="[...]">
 
 </div>
